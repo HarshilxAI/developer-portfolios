@@ -787,6 +787,7 @@ This repo can serve as inspiration for your portfolio!
 - [Harsh Singhvi](https://harshsinghvi.com)
 - [Harsh Vardhan Singh](https://hvsingh.vercel.app) [Full Stack Developer]
 - [Harshendra Prajapati](https://harshendra.web.app) [Creative Developer | MERN Stack & React Native]
+- [Harshil Gurjar](https://hdgurjar.netlify.app) [Fresher's Portfolio]
 - [Harshit Singh](https://eharshit.cfd) [Data Science]
 - [Harshith Raj](https://harshithrajbangera.github.io/Portfolio/) [Full Stack Developer]
 - [Harwin Dan](https://itscrazydev.netlify.app)
